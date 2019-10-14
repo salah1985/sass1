@@ -1,0 +1,53 @@
+.fa-twitter {
+  color: #1da1f2;
+}
+
+.fa-behance {
+  color: #1769ff;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-vimeo-square {
+  color: #1ab7ea;
+}
+
+.fa-snapchat-ghost {
+  color: #fffc00;
+}
+
+.fa-airbnb {
+  color: #fd5c63;
+}
+
+.fa-amazon {
+  color: #ff9900;
+}
+
+.fa-android {
+  color: #a4c639;
+}
+
+.fa-stack-overflow {
+  color: #f48024;
+}
+
+.fa-ubuntu {
+  color: #dd4814;
+}
+
+.fa_github {
+  color: #4078c0;
+}
+
+.fa-js {
+  color: #f7df1e;
+}
+
+body {
+  font-size: 80px;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */

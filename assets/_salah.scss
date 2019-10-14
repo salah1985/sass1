@@ -1,0 +1,52 @@
+$twitter:#1da1f2;
+$BE:#1769ff;
+$facebook:#3b5998;
+$vimeo:#1ab7ea;
+$snapchat:#fffc00;
+$airbnb:#fd5c63;
+$amazon:#ff9900;
+$andriod:#a4c639;
+$stack:#f48024;
+$ubunt:#dd4814;
+$github:#4078c0;
+$js:#f7df1e;
+.fa-twitter{
+    color:$twitter ;
+}
+.fa-behance{
+    color: $BE;
+}
+.fa-facebook-square{
+    color: $facebook;
+}
+.fa-vimeo-square{
+    color: $vimeo;
+}
+.fa-snapchat-ghost{
+    color: $snapchat;
+}
+.fa-airbnb{
+    color: $airbnb;
+}
+.fa-amazon{
+    color: $amazon;
+}
+.fa-android{
+    color: $andriod;
+}
+.fa-stack-overflow{
+    color: $stack;
+}
+.fa-ubuntu{
+    color: $ubunt;
+}
+.fa_github{
+    color: $github;
+}
+.fa-js{
+    color: $js;
+}
+body{
+    font-size: 80px;
+    text-align: center;
+}
